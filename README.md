@@ -1,0 +1,1 @@
+I am working on learning javascript frontend webdevelopement. This is my first attempt to professional work as web developer.
